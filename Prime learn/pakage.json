@@ -1,7 +1,7 @@
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "prime learn",
+            "invocationName": "TLG",
             "intents": [
                 {
                     "name": "AMAZON.CancelIntent",
@@ -19,11 +19,12 @@
                     "name": "whatismathfun",
                     "slots": [],
                     "samples": [
-                        "maths fun",
-                        "tell me prime fun",
-                        "prime fun",
-                        "math fun",
-                        "tell me math fun"
+                        "What is TLG?",
+                        "Open TLG",
+                        "Launch TLG",
+                        "Load TLG",
+                        "What TLG is?",
+                        "Run TLG"
                     ]
                 }
             ],
